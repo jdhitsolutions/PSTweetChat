@@ -1,21 +1,23 @@
-﻿
-$Date = "3/1/2019"
+﻿[cmdletbinding(SupportsShouldProcess)]
+Param(
+    [string]$Date = "3/1/2019"
+)
 
 #output file
-$filename = "PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date),([datetime]$Date)
-$outfile = Join-Path -Path $psscriptroot\transcripts -ChildPath $filename
+$filename = "PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date), ([datetime]$Date)
+$outfile = Convert-Path (Join-Path -Path $psscriptroot\..\transcripts -ChildPath $filename)
 
 #need to download the gsheet as a CSV file
 $csv = "$psscriptroot\pstweetchat.csv"
 
 #$original= "Date,Screen Name,Full Name,Tweet Text,Tweet ID,Link(s),Media,Location,Retweets,Favorites,App,Followers,Follows,Listed,Verfied,User Since,TwitterLocation,Bio,Website,Timezone,Profile Image"
-$myheader="Date","TwitterName","RealName","Text","ID","Links","Media","OnlineLocation","Retweets","Favorites","App","Followers","Follows","Listed","Verified","UserSince","TwitterLocation","Bio","WebSite","TimeZone","ProfileImage"
+$myheader = "Date", "TwitterName", "RealName", "Text", "ID", "Links", "Media", "OnlineLocation", "Retweets", "Favorites", "App", "Followers", "Follows", "Listed", "Verified", "UserSince", "TwitterLocation", "Bio", "WebSite", "TimeZone", "ProfileImage"
 
 #filter out anything via IFTTT which is most likely a retweet
 #and skip the header lines since I'm using my own
 $data = get-content $csv | Select-object -Skip 2 |
-convertfrom-csv -Header $myheader | where-object {$_.App -ne 'ifttt' -AND $_.Date -eq $Date} |
-Sort-object ID
+    convertfrom-csv -Header $myheader | where-object {$_.App -ne 'ifttt' -AND $_.Date -eq $Date} |
+    Sort-object ID
 
 #create a markdown document
 $data | Select-Object  ID, TwitterName, RealName, Text, links, media | Foreach-object -begin {
@@ -38,24 +40,24 @@ $data | Select-Object  ID, TwitterName, RealName, Text, links, media | Foreach-o
 
     if ($_.links) {
 
-   foreach ($item in $_.links) {
-       $md+= @"
+        foreach ($item in $_.links) {
+            $md += @"
 
 + [$item]($item)
 
 "@
-   } #foreach item
+        } #foreach item
     } # if links
 
     if ($_.media) {
-      foreach ($item in $_.media) {
-       $md+=@"
+        foreach ($item in $_.media) {
+            $md += @"
 
 ![embedded media]($item)
 
 "@
-    } #foreach item
-   } #if media
+        } #foreach item
+    } #if media
 
 
 } -end {
@@ -71,4 +73,6 @@ _generated $(((get-date).ToUniversalTime()|Out-String).trim()) UTC_
 
 $md | Out-File -filepath $outfile -Encoding ascii
 
-Get-Item -path $outfile
+if ( -not $PSBoundParameters.ContainsKey("WhatIf")) {
+    Get-Item -path $outfile
+}
