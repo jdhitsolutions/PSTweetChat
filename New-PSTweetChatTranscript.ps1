@@ -3,7 +3,7 @@ $Date = "3/1/2019"
 
 #output file
 $filename = "PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date),([datetime]$Date)
-$outfile = Join-Path -Path $psscriptroot -ChildPath $filename
+$outfile = Join-Path -Path $psscriptroot\transcripts -ChildPath $filename
 
 #need to download the gsheet as a CSV file
 $csv = "$psscriptroot\pstweetchat.csv"
@@ -64,10 +64,11 @@ $data | Select-Object  ID, TwitterName, RealName, Text, links, media | Foreach-o
 
 This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is certainly an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
 
-_generated $(((get-date).ToUniversalTime()|Out-String).trim()) UTC_"
+_generated $(((get-date).ToUniversalTime()|Out-String).trim()) UTC_
 "@
 
 }
 
 $md | Out-File -filepath $outfile -Encoding ascii
 
+Get-Item -path $outfile
