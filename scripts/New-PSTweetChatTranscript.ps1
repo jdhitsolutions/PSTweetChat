@@ -1,11 +1,11 @@
 ﻿[cmdletbinding(SupportsShouldProcess)]
 Param(
-    [string]$Date = "3/1/2019"
+    [string]$Date = "4/5/2019"
 )
 
 #output file
 $filename = "PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date), ([datetime]$Date)
-$outfile = Convert-Path (Join-Path -Path $psscriptroot\..\transcripts -ChildPath $filename)
+$outfile = Join-Path -Path $psscriptroot\..\transcripts -ChildPath $filename
 
 #need to download the gsheet as a CSV file
 $csv = "$psscriptroot\pstweetchat.csv"
