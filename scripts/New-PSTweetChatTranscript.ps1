@@ -1,14 +1,14 @@
 ﻿[cmdletbinding(SupportsShouldProcess)]
 Param(
-    [string]$Date = "4/5/2019"
+    [string]$Date = $(Get-date -Format d),
+    [ValidateScript({Test-Path $_})]
+    #need to download the gsheet as a CSV file
+    [string]$CSV = "$psscriptroot\pstweetchat.csv"
 )
 
 #output file
 $filename = "PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date), ([datetime]$Date)
 $outfile = Join-Path -Path $psscriptroot\..\transcripts -ChildPath $filename
-
-#need to download the gsheet as a CSV file
-$csv = "$psscriptroot\pstweetchat.csv"
 
 #$original= "Date,Screen Name,Full Name,Tweet Text,Tweet ID,Link(s),Media,Location,Retweets,Favorites,App,Followers,Follows,Listed,Verfied,User Since,TwitterLocation,Bio,Website,Timezone,Profile Image"
 $myheader = "Date", "TwitterName", "RealName", "Text", "ID", "Links", "Media", "OnlineLocation", "Retweets", "Favorites", "App", "Followers", "Follows", "Listed", "Verified", "UserSince", "TwitterLocation", "Bio", "WebSite", "TimeZone", "ProfileImage"
