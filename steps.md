@@ -1,12 +1,18 @@
 # Workflow
 
-1. Save the PSTweetChat Google Sheet to a csv file
-2. Copy the csv file to scripts\pstweetchat.csv in this module
-3. Run `New-PSTweetTranscript` for the given day
+The GSheet plugin runs once an hour. Need to wait until it has captured all of the current month's tweets.
 
-```powershell
-PS C:\scripts\PSTweetChat\scripts> .\New-PSTweetChatTranscript.ps1 -Date "4/5/2019"
-```
+1. git checkout -b %month%year%
+2. Save the PSTweetChat Google Sheet to a csv file
+3. Copy the csv file to `scripts\pstweetchat.csv` in this module
+4. Run `New-PSTweetTranscript` for the given day:
 
-4. git commit
-5. git push
+    ```powershell
+    PS C:\scripts\PSTweetChat\scripts> .\New-PSTweetChatTranscript.ps1 -Date "8/2/2019"
+    ```
+
+5. git add .
+6. git commit -m "%month% %year% updates"
+7. git checkout master
+8. git merge %month%year%
+9. git push
