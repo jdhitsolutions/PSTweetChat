@@ -8,7 +8,7 @@ The GSheet plugin runs once an hour. Need to wait until it has captured all of t
 git checkout -b August2019
 ```
 
-+ Save the PSTweetChat Google Sheet to a csv file
++ Save the PSTweetChat Google Sheet to a local csv file
 + Copy the csv file to `scripts\pstweetchat.csv` in this module
 + Run `New-PSTweetTranscript` for the given day:
 
