@@ -1,6 +1,6 @@
 # PSTweetChat
 
-![chat](assets/talkbubble.png) This repository contains a transcript that I'm creating for the monthly #PSTweetChat on Twitter. The first Friday of every month for about an hour beginning at 1:00PM Eastern time (18:00 UTC), members of the PowerShell community get together on Twitter. We share experiences, tips, tricks and words of encouragement. I realized it would be helpful to maintain some sort of record which is why this exists.
+![chat](assets/talkbubble.png) This repository contains a transcript that I'm creating for the monthly `#PSTweetChat` on Twitter. The first Friday of every month for about an hour beginning at 1:00PM Eastern time (18:00 UTC), members of the PowerShell community get together on Twitter. We share experiences, tips, tricks and words of encouragement. I realized it would be helpful to maintain some sort of record which is why this exists. You can find monthly transcripts in the [Transcripts](./transcripts) folder.
 
 ## How Are You Doing This?
 
