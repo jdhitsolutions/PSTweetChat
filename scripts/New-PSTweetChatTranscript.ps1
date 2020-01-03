@@ -1,7 +1,7 @@
 ﻿[cmdletbinding(SupportsShouldProcess)]
 Param(
-    [string]$Date = $(Get-date -Format d),
-    [ValidateScript({Test-Path $_})]
+    [string]$Date = $(Get-Date -Format d),
+    [ValidateScript( { Test-Path $_ })]
     #need to download the gsheet as a CSV file
     [string]$CSV = "$psscriptroot\pstweetchat.csv"
 )
@@ -15,12 +15,12 @@ $myheader = "Date", "TwitterName", "RealName", "Text", "ID", "Links", "Media", "
 
 #filter out anything via IFTTT which is most likely a retweet
 #and skip the header lines since I'm using my own
-$data = get-content $csv | Select-object -Skip 2 |
-    convertfrom-csv -Header $myheader | where-object {$_.App -ne 'ifttt' -AND $_.Date -eq $Date} |
-    Sort-object ID
+$data = Get-Content $csv | Select-Object -Skip 2 |
+ConvertFrom-Csv -Header $myheader | Where-Object { $_.App -ne 'ifttt' -AND $_.Date -eq $Date } |
+Sort-Object ID
 
 #create a markdown document
-$data | Select-Object  ID, TwitterName, RealName, Text, links, media | Foreach-object -begin {
+$data | Select-Object  ID, TwitterName, RealName, Text, links, media | ForEach-Object -begin {
     $md = @"
 # PSTweetChat TweetScript
 
@@ -64,9 +64,9 @@ $data | Select-Object  ID, TwitterName, RealName, Text, links, media | Foreach-o
 
     $md += @"
 
-This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is certainly an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
+This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
 
-_generated $(((get-date).ToUniversalTime()|Out-String).trim()) UTC_
+_generated $(((Get-Date).ToUniversalTime()|Out-String).trim()) UTC_
 "@
 
 }

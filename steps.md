@@ -9,11 +9,11 @@ git checkout -b August2019
 ```
 
 + Save the PSTweetChat Google Sheet to a local csv file
-+ Copy the csv file to `scripts\pstweetchat.csv` in this module
++ Copy the csv file to `scripts\pstweetchat.csv` in this module. I can run the `Copy-PSTweetChat` script.
 + Run `New-PSTweetTranscript` for the given day:
 
 ```powershell
-PS C:\scripts\PSTweetChat\> .\scripts\New-PSTweetChatTranscript.ps1 -Date "8/2/2019"
+PS C:\scripts\PSTweetChat\> .\scripts\New-PSTweetChatTranscript.ps1 -Date "1/3/2020"
 ```
 
 + review the new markdown file
