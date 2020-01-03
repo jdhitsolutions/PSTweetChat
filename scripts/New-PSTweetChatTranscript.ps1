@@ -7,7 +7,8 @@ Param(
 )
 
 #output file
-$filename = "PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date), ([datetime]$Date)
+#3 Jan 2020 - updated filename to include a 2 digit month number so that files will sort properly by name
+$filename = "{1:00}_PSTweetChat_{0:MMMMyyyy}.md" -f ([datetime]$Date),([datetime]$date).month
 $outfile = Join-Path -Path $psscriptroot\..\transcripts -ChildPath $filename
 
 #$original= "Date,Screen Name,Full Name,Tweet Text,Tweet ID,Link(s),Media,Location,Retweets,Favorites,App,Followers,Follows,Listed,Verfied,User Since,TwitterLocation,Bio,Website,Timezone,Profile Image"
