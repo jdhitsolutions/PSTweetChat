@@ -17,11 +17,12 @@ $myheader = "Date", "TwitterName", "RealName", "Text", "ID", "Links", "Media", "
 #filter out anything via IFTTT which is most likely a retweet
 #and skip the header lines since I'm using my own
 $data = Get-Content $csv | Select-Object -Skip 2 |
-ConvertFrom-Csv -Header $myheader | Where-Object { $_.App -ne 'ifttt' -AND $_.Date -eq $Date } |
+ConvertFrom-Csv -Header $myheader | Where-Object { $_.App -ne 'ifttt' -AND ([datetime]$_.Date).ToShortDateString() -eq $Date } |
 Sort-Object ID
 
 #create a markdown document
-$data | Select-Object  ID, TwitterName, RealName, Text, links, media | ForEach-Object -begin {
+$data | Select-Object  @{Name="Date";Expression = {$_.Date -as [datetime]}},ID, TwitterName, RealName, Text, links, media |
+ForEach-Object -begin {
     $md = @"
 # PSTweetChat TweetScript
 
@@ -30,11 +31,14 @@ $data | Select-Object  ID, TwitterName, RealName, Text, links, media | ForEach-O
 "@
 
 } -process {
+    write-verbose ("{0} - {1} {2}" -f $_.date, $_.twittername,$_.realname)
     $handle = $_.twittername.substring(1)
+    $tdate = "{0:u}" -f $_.date.ToUniversalTime()
     $md += @"
 
 ### [$($_.Twittername)](https://twitter.com/$handle) \<$($_.Realname)\>
 
+*$tdate*
 > [$($_.text)](https://twitter.com/$handle/status/$($_.ID))
 
 "@

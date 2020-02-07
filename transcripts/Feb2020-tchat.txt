@@ -1,0 +1,576 @@
+#February 2020
+
+# This as an alternate transcript from my tchat.io session
+
+Shane O'Neill @SOZDBA
+Ah no!!! I missed #PSTweetchat
+
+
+2:27 PM
+Gregg Lott @greggZ251
+I have been enjoying #PSConfBook2 leanpub.com/psconfbook2 #PSTweetChat
+
+Retweeted by Dave Carroll
+
+2:03 PM
+Josh (Windos) King @WindosNZ
+Thanks for facilitating another awesome #PSTweetChat, @JeffHicks. Look forward to it every month!
+
+
+1:59 PM
+Jeff Hicks @JeffHicks
+Thanks for hanging out today and sharing. Hope to see you all next month. #pstweetchat
+
+
+1:59 PM
+Mike Kanakos @MikeKanakos
+@BrettMiller_IT @steviecoaster let's all chip in buy @steviecoaster a watch.... #pstweetchat pic.twitter.com/qnJimqSH0r
+
+
+1:59 PM
+Josh (Windos) King @WindosNZ
+@BrettMiller_IT @steviecoaster #PSTweetChat pic.twitter.com/bRuKJEJj7Y
+
+
+1:58 PM
+Josh (Windos) King @WindosNZ
+The #BurntToast #PowerShell module turns five this year, I may have something special planned! #PSTweetChat
+
+Retweeted by Dave Carroll
+
+1:57 PM
+Dave Carroll @thedavecarroll
+@JeffHicks @MikeKanakos #IronScripter challenges are awesome learning tools! #PSTweetChat
+
+
+1:56 PM
+Jeff Hicks @JeffHicks
+I'll post a transcript later today. #pstweetchat
+
+
+1:56 PM
+Jeff Hicks @JeffHicks
+@steviecoaster We're getting a healthy dose today. My dog loves it. She gets my attention next. #pstweetchat
+
+
+1:55 PM
+Brett Miller @BrettMiller_IT
+@steviecoaster I mean you're only an hour late #PSTweetChat
+
+
+1:55 PM
+Stephen Valdinger @steviecoaster
+#PSTweetchat time! First snow of the year here and I had a 6 yr old begging to sled. Family first, folks!
+
+
+1:54 PM
+Josh (Windos) King @WindosNZ
+The #BurntToast #PowerShell module turns five this year, I may have something special planned! #PSTweetChat
+
+Retweeted by Chrissy LeMaire
+
+1:54 PM
+Jeff Hicks @JeffHicks
+@MikeKanakos @thedavecarroll I'd like to think I do this on a regular basis already. #PSTweetChat #PowerShell
+
+
+1:54 PM
+Josh (Windos) King @WindosNZ
+@JeffHicks Not really, but that does remind me... #PSTweetChat
+
+
+1:54 PM
+Josh (Windos) King @WindosNZ
+The #BurntToast #PowerShell module turns five this year, I may have something special planned! #PSTweetChat
+
+Retweeted by Trevor Sullivan 🚀
+
+1:53 PM
+Josh (Windos) King @WindosNZ
+The #BurntToast #PowerShell module turns five this year, I may have something special planned! #PSTweetChat
+
+
+1:53 PM
+Jeff Hicks @JeffHicks
+@WindosNZ did you ever get traction with this chat on your side of the world? #pstweetchat
+
+
+1:52 PM
+Dave Carroll @thedavecarroll
+@MikeKanakos Challenge accepted! #PSTweetChat
+
+
+1:52 PM
+Jeff Hicks @JeffHicks
+Set a reminder for next month's chat on 6 March at 1:00PM Eastern. #pstweetchat
+
+Retweeted by Josh (Windos) King
+
+1:51 PM
+Jeff Hicks @JeffHicks
+Also want to make sure everyone knows about the upcoming #PSBlogweek on PowerShell 7 jdhitsolutions.com/blog/powershel… #pstweetchat
+
+Retweeted by kakashicopyninja1987
+
+1:50 PM
+Jeff Hicks @JeffHicks
+You can still buy the first volume of the #PowerShell Conference Book leanpub.com/powershell-con… #pstweetchat
+
+Retweeted by kakashicopyninja1987
+
+1:50 PM
+Jeff Hicks @JeffHicks
+I even have Windows Terminal profile that opens a #PowerShell Remoting session #PSTweetChat pic.twitter.com/WjmE2KG9a5
+
+Retweeted by kakashicopyninja1987
+
+1:50 PM
+Jeff Hicks @JeffHicks
+@Schlauge You could use my PSReleaseTools module to install. #pstweetchat
+
+Retweeted by kakashicopyninja1987
+
+1:50 PM
+Jeff Hicks @JeffHicks
+I blogged about how I added my calendar to my Windows Terminal profile jdhitsolutions.com/blog/powershel… #pstweetchat
+
+Retweeted by kakashicopyninja1987
+
+1:49 PM
+Jeff Hicks @JeffHicks
+Set a reminder for next month's chat on 6 March at 1:00PM Eastern. #pstweetchat
+
+
+1:46 PM
+Phil Bossman @Schlauge
+Nothing better then working on #PowerShell from an @rtpsug Pint glass #PSTweetChat
+
+
+1:46 PM
+Dave Carroll @thedavecarroll
+Who else is anticipating #PSBlogWeek? #PSTweetChat
+
+
+1:45 PM
+Mike Kanakos @MikeKanakos
+@BrettMiller_IT @greggZ251 @Schlauge that can be arranged. we might even be able to send a care package... #PSTweetChat
+
+
+1:44 PM
+Brett Miller @BrettMiller_IT
+@MikeKanakos @greggZ251 @Schlauge You supply the beer, i'm there #PSTweetChat
+
+
+1:44 PM
+Mike Kanakos @MikeKanakos
+@BrettMiller_IT @greggZ251 @Schlauge time is such a weird constraint... nothing a few cold ones or a gin cant offset. #PSTweetChat
+
+
+1:44 PM
+Phil Bossman @Schlauge
+@WindosNZ @code @pcgeek86 I'll need to check this out #PSTweetChat
+
+
+1:43 PM
+Gregg Lott @greggZ251
+@WindosNZ Getting ready to give it a spin and see. #PSTweetChat
+
+
+1:43 PM
+Dave Carroll @thedavecarroll
+@BrettMiller_IT @Schlauge @code This is cool if you have multiple systems to keep the config in sync. #PSTweetChat
+
+
+1:42 PM
+Jeff Hicks @JeffHicks
+@WindosNZ The ISE made it easy to have remote tabs. I applied the concept to Windows Terminal. I'll have to blog about it. #pstweetchat
+
+
+1:42 PM
+Dave Carroll @thedavecarroll
+@BrettMiller_IT @Schlauge @code I use this extension. Pretty cool! #PSTweetChat
+
+
+1:40 PM
+Josh (Windos) King @WindosNZ
+@JeffHicks That's a really awesome idea, esp for those handfuls of remote sessions you tend to need regularly! #PSTweetChat
+
+
+1:39 PM
+Jeff Hicks @JeffHicks
+I blogged about how I added my calendar to my Windows Terminal profile jdhitsolutions.com/blog/powershel… #pstweetchat
+
+
+1:39 PM
+Brett Miller @BrettMiller_IT
+@Schlauge @greggZ251 @MikeKanakos the benefits of using one editor totally outweighs any negatives or nuances you may run into. #PSTweetChat
+
+
+1:38 PM
+Phil Bossman @Schlauge
+@greggZ251 @BrettMiller_IT @MikeKanakos Truly,, whats else would you use? #VSCode is so versatile #PSTweetChat
+
+
+1:38 PM
+Brett Miller @BrettMiller_IT
+@greggZ251 @MikeKanakos I'm using @code for everything. Azure Data Studio for SQL stuff. Pretty much the same thing though. #PSTweetChat
+
+
+1:38 PM
+Mike Kanakos @MikeKanakos
+@greggZ251 @BrettMiller_IT absolutely! #PSTweetChat
+
+
+1:37 PM
+Jeff Hicks @JeffHicks
+@Schlauge You could use my PSReleaseTools module to install. #pstweetchat
+
+
+1:37 PM
+Dave Carroll @thedavecarroll
+@MikeKanakos #PowerShell7 is my default, but for work it's still Windows PowerShell 5.1 #PSTweetChat #PowerShell
+
+
+1:37 PM
+Mike Kanakos @MikeKanakos
+@BrettMiller_IT that's why i love VSCode so much.... the ability to do many things from one console. #PSTweetChat #powershell
+
+
+1:37 PM
+Gregg Lott @greggZ251
+@BrettMiller_IT @MikeKanakos Are you using VSCode for markdown? #PSTweetChat
+
+
+1:37 PM
+Jeff Hicks @JeffHicks
+I even have Windows Terminal profile that opens a #PowerShell Remoting session #PSTweetChat pic.twitter.com/WjmE2KG9a5
+
+
+1:35 PM
+Gregg Lott @greggZ251
+@MikeKanakos Two of mine use PowerGUI. Some of the others ISE. #PSTweetChat
+
+
+1:35 PM
+Phil Bossman @Schlauge
+I find it's only on admin and development machines. #PSTweetChat
+
+
+1:35 PM
+Josh (Windos) King @WindosNZ
+@MikeKanakos @steviecoaster @Schlauge #PSTweetChat pic.twitter.com/16E0waWOH3
+
+
+1:35 PM
+Dave Carroll @thedavecarroll
+@JeffHicks @MikeKanakos I'm definitely using Windows Terminal, with #PowerShell 7 as my default. #PSTweetChat
+
+
+1:34 PM
+Phil Bossman @Schlauge
+What are people doing about mass deployment of PowerShell 7 or even PSCore across and enterprise. #PSTweetChat
+
+
+1:31 PM
+Mike Kanakos @MikeKanakos
+paging @steviecoaster and @Schlauge .... #PSTweetChat ... you're late!
+
+
+1:31 PM
+Josh (Windos) King @WindosNZ
+@MikeKanakos @JeffHicks After ISO 8601 it's the only one that makes sense 🤣 #PSTweetChat
+
+
+1:30 PM
+Jeff Hicks @JeffHicks
+@MikeKanakos Oh, you mean the proper date format? ;-) #PSTweetChat
+
+
+1:30 PM
+Gregg Lott @greggZ251
+@JeffHicks @MikeKanakos That is where I run 7 from most of the time along with a WSL window. #PSTweetChat
+
+
+1:29 PM
+Mike Kanakos @MikeKanakos
+@JeffHicks I am moving that way now! #PSTweetChat
+
+
+1:29 PM
+Josh (Windos) King @WindosNZ
+@MikeKanakos Unfortunately I'm tied to a SOAP API at work that is *way* more convenient in 5.1, but I use 7 as much as I can. #PSTweetChat
+
+
+1:29 PM
+Jeff Hicks @JeffHicks
+@MikeKanakos I'm more curious when people will move to Windows Terminal in place of the traditional console. #pstweetchat
+
+
+1:29 PM
+Mike Kanakos @MikeKanakos
+@JeffHicks that's not the date format I would have expected to see... #PSTweetChat
+
+
+1:28 PM
+Gregg Lott @greggZ251
+@MikeKanakos I use it every day at work unless I don't have a choice. #PSTweetChat
+
+
+1:28 PM
+Jeff Hicks @JeffHicks
+@MikeKanakos It already is. #PSTweetchat pic.twitter.com/53o7mSrelO
+
+
+1:28 PM
+Jeff Hicks @JeffHicks
+You can still buy the first volume of the #PowerShell Conference Book leanpub.com/powershell-con… #pstweetchat
+
+Retweeted by Josh (Windos) King
+
+1:26 PM
+Jeff Hicks @JeffHicks
+You can still buy the first volume of the #PowerShell Conference Book leanpub.com/powershell-con… #pstweetchat
+
+
+1:25 PM
+Josh (Windos) King @WindosNZ
+Something bit is coming! #PSTweetChat twitter.com/JeffHicks/stat… pic.twitter.com/s34D67hCGe
+
+Retweeted by Dave Carroll
+
+1:25 PM
+Mike Kanakos @MikeKanakos
+How long will you wait until you move to #PowerShell7 as you daily driver? Have you moved to it already? #PSTweetChat #PowerShell
+
+
+1:24 PM
+Jeff Hicks @JeffHicks
+I opened an issue for #PowerShell 7 you might want to think about or comment on github.com/PowerShell/Pow… #pstweetchat
+
+Retweeted by Josh (Windos) King
+
+1:23 PM
+Josh (Windos) King @WindosNZ
+Something bit is coming! #PSTweetChat pic.twitter.com/s34D67hCGe
+
+
+1:23 PM
+Jeff Hicks @JeffHicks
+I opened an issue for #PowerShell 7 you might want to think about or comment on github.com/PowerShell/Pow… #pstweetchat
+
+
+1:22 PM
+James Petty @PSJamesP
+@PSHChatt is also having their 3rd PowerShell on the River August 14-15 in #CHattanooga TN. #pstweetchat #PSOTR
+
+Retweeted by Jeff Hicks
+
+1:20 PM
+Jeff Hicks @JeffHicks
+I also pushed a new version of PSScriptTools to the #PowerShell Gallery with a few new tools. github.com/jdhitsolutions… #pstweetchat
+
+
+1:19 PM
+Jeff Hicks @JeffHicks
+Also want to make sure everyone knows about the upcoming #PSBlogweek on PowerShell 7 jdhitsolutions.com/blog/powershel… #pstweetchat
+
+Retweeted by Adam the Automator
+
+1:18 PM
+James Petty @PSJamesP
+@PSHChatt is also having their 3rd PowerShell on the River August 14-15 in #CHattanooga TN. #pstweetchat #PSOTR
+
+Retweeted by Dave Carroll
+
+1:18 PM
+James Petty @PSJamesP
+@PSHChatt is also having their 3rd PowerShell on the River August 14-15 in #CHattanooga TN. #pstweetchat #PSOTR
+
+
+1:17 PM
+Jeff Hicks @JeffHicks
+Also want to make sure everyone knows about the upcoming #PSBlogweek on PowerShell 7 jdhitsolutions.com/blog/powershel… #pstweetchat
+
+Retweeted by Dave Carroll
+
+1:17 PM
+James Petty @PSJamesP
+@JeffHicks I saw that. I can't wait. #PSTweetChat
+
+
+1:17 PM
+Jeff Hicks @JeffHicks
+Also want to make sure everyone knows about the upcoming #PSBlogweek on PowerShell 7 jdhitsolutions.com/blog/powershel… #pstweetchat
+
+
+1:17 PM
+Jim Birley ⚡💀🌹 @jbirley
+@PSJamesP @JeffHicks The rainbow unicorn thing seems a little cringy, but OK! #PSTweetChat
+
+
+1:16 PM
+James Petty @PSJamesP
+@WindosNZ Nashville will be very fun as well!! #PSTweetChat
+
+
+1:16 PM
+Jeff Hicks @JeffHicks
+And Pluralsight has a free weekend beginning today. pluralsight.com/offer/2020/feb… #pstweetchat
+
+Retweeted by Dukagjin Maloku
+
+1:16 PM
+Jim Birley ⚡💀🌹 @jbirley
+@JeffHicks @PSJamesP And a Game of Thrones throne made with golf clubs. LOL #PSTweetChat
+
+
+1:15 PM
+James Petty @PSJamesP
+@JeffHicks @jbirley oh and the food is AMAZING #PSTweetChat
+
+
+1:15 PM
+Jeff Hicks @JeffHicks
+@jbirley @PSJamesP Oh, I see. Golf. Never mind. #pstweetchat
+
+
+1:14 PM
+Jeff Hicks @JeffHicks
+@jbirley @PSJamesP It has a Swing Suite! What are you getting us into? ;-) #pstweetchat
+
+
+1:14 PM
+Mike Kanakos @MikeKanakos
+Who is still hoping to buy a ticket to #PSHSummit ? PSA - there less than 30 ticket left... you need to move it! #PSTweetChat #PowerShell
+
+
+1:13 PM
+Gregg Lott @greggZ251
+@JeffHicks Just tried Show-GuiCalendar. Nice. #PSTweetChat
+
+
+1:13 PM
+Jim Birley ⚡💀🌹 @jbirley
+@PSJamesP That place looks big, ie., plenty of room and some TopGolf. Looks like a good choice! #PSTweetChat
+
+
+1:11 PM
+Jeff Hicks @JeffHicks
+And Pluralsight has a free weekend beginning today. pluralsight.com/offer/2020/feb… #pstweetchat
+
+
+1:11 PM
+Josh (Windos) King @WindosNZ
+@PSJamesP I'll be living vicariously through you all on Twitter #PSTweetChat pic.twitter.com/ou1mK7a7VQ
+
+
+1:11 PM
+Mike Kanakos @MikeKanakos
+@greggZ251 what do you think is the barrier that stops them? difficulty? unaware? old habits? #PSTweetChat #powershell
+
+
+1:10 PM
+Gregg Lott @greggZ251
+@JeffHicks I most certainly did! Great work by the way. #PSTweetChat
+
+
+1:10 PM
+Jeff Hicks @JeffHicks
+I hope everyone has their #PSHSummit ticket. Expecting final seats to go any day. #pstweetchat
+
+Retweeted by PowerShell.org
+
+1:09 PM
+James Petty @PSJamesP
+Who is excited for #PSHSummit? #PSTweetChat
+
+Retweeted by PowerShell.org
+
+1:09 PM
+Jeff Hicks @JeffHicks
+@greggZ251 Did you use the autocompletion? #pstweetchat
+
+
+1:09 PM
+Jeff Hicks @JeffHicks
+My other accomplishment since last time is publishing a new course #PowerShell and Regular Expressions pluralsight.com/courses/powers… #pstweetchat
+
+
+1:08 PM
+Gregg Lott @greggZ251
+@JeffHicks Just using to see the calendar. It was so easy to specify the month instead of clicking through a gui. #PSTweetChat
+
+
+1:08 PM
+Michael Teske 🥩🥃🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 @Teskemj
+@PSJamesP #PSTweetChat pic.twitter.com/7q9lkLbWx1
+
+
+1:07 PM
+Gregg Lott @greggZ251
+I have been enjoying #PSConfBook2 leanpub.com/psconfbook2 #PSTweetChat
+
+Retweeted by Josh (Windos) King
+
+1:07 PM
+Gregg Lott @greggZ251
+I have been enjoying #PSConfBook2 leanpub.com/psconfbook2 #PSTweetChat
+
+
+1:05 PM
+Jeff Hicks @JeffHicks
+I hope everyone has their #PSHSummit ticket. Expecting final seats to go any day. #pstweetchat
+
+Retweeted by Josh (Windos) King
+
+1:05 PM
+Jeff Hicks @JeffHicks
+@greggZ251 Just to try or are you incorporating it into something? #pstweetchat
+
+
+1:05 PM
+James Petty @PSJamesP
+Who is excited for #PSHSummit? #PSTweetChat
+
+
+1:05 PM
+Jeff Hicks @JeffHicks
+I hope everyone has their #PSHSummit ticket. Expecting final seats to go any day. #pstweetchat
+
+
+1:04 PM
+Jeff Hicks @JeffHicks
+You can find previous chats here github.com/jdhitsolutions… #pstweetchat
+
+
+1:04 PM
+Gregg Lott @greggZ251
+Just used your PSCalendar module. #PSTweetChat
+
+
+1:03 PM
+Jeff Hicks @JeffHicks
+I'll generate a transcript later today based on the tag. #pstweetchat
+
+
+1:03 PM
+Jeff Hicks @JeffHicks
+For those of you just joining, be sure to include the hash tag #pstweetchat
+
+
+1:03 PM
+Mike Kanakos @MikeKanakos
+Hey #powershell peeps! PsTweetchat starts in 10 minutes! Feel free to join the fun . Just follow the hashtag… twitter.com/i/web/status/1…
+
+Retweeted by Dave Carroll
+
+1:03 PM
+Jeff Hicks @JeffHicks
+Hey everyone. Welcome back to another monthly chat. #pstweetchat
+
+Retweeted by Dave Carroll
+
+1:02 PM
+Jeff Hicks @JeffHicks
+Hey everyone. Welcome back to another monthly chat. #pstweetchat
+

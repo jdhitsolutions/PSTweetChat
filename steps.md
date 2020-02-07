@@ -9,7 +9,7 @@ git checkout -b August2019
 ```
 
 + Save the PSTweetChat Google Sheet to a local csv file
-+ Copy the csv file to `scripts\pstweetchat.csv` in this module. I can run the `Copy-PSTweetChat` script.
++ Copy the csv file to `.\cat $cscripts\pstweetchat.csv` in this module. I can run the `Copy-PSTweetChat` script.
 + Run `New-PSTweetTranscript` for the given day:
 
 ```powershell
