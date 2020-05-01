@@ -17,7 +17,7 @@ $myheader = "Date", "TwitterName", "RealName", "Text", "ID", "Links", "Media", "
 #filter out anything via IFTTT which is most likely a retweet
 #and skip the header lines since I'm using my own
 $data = Get-Content $csv | Select-Object -Skip 2 |
-ConvertFrom-Csv -Header $myheader | Where-Object { $_.App -ne 'ifttt' -AND ([datetime]$_.Date).ToShortDateString() -eq $Date } |
+ConvertFrom-Csv -Header $myheader | Where-Object { ($_.id -match "\d{19}") -AND $_.App -ne 'ifttt' -AND ([datetime]$_.Date).ToShortDateString() -eq $Date} |
 Sort-Object ID
 
 #create a markdown document

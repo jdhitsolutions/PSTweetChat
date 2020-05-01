@@ -1,5 +1,9 @@
 # Changelog for PSTweetChat
 
+## 1 May 2020
+
++ Updated `New-PSTweetChatTranscript` to strip out items with invalid IDs
+
 ## 3 January 2020
 
 + Added `Copy-PSTweetChat.ps1` script
