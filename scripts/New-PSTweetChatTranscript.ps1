@@ -1,7 +1,7 @@
 ﻿[cmdletbinding(SupportsShouldProcess)]
 Param(
     [string]$Date = $(Get-Date -Format d),
-    [ValidateScript( { Test-Path $_ })]
+    [ValidateScript({ Test-Path $_ })]
     #need to download the gsheet as a CSV file
     [string]$CSV = "$psscriptroot\pstweetchat.csv"
 )
