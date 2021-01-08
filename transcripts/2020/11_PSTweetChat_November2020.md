@@ -311,6 +311,6 @@
 *2020-11-06 19:03:11Z*
 > [@fuselamb As long as people find value I'm happy to "host". #PSTweetchat](https://twitter.com/JeffHicks/status/1324789446076715010)
 
-This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
+This transcript is based on tracking the `#PSTweetchat` tag. However, not everyone remembers to insert  the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in true chronological order.
 
 _generated Friday, November 6, 2020 7:16:27 PM UTC_

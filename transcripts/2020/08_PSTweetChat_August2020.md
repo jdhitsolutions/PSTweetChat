@@ -548,6 +548,6 @@
 *2020-08-07 18:39:46Z*
 > [@MikeKanakos Amazing event indeed #pstweetchat](https://twitter.com/HeikoBrenn/status/1291806254671822849)
 
-This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
+This transcript is based on tracking the `#PSTweetchat` tag. However, not everyone remembers to insert  the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in true chronological order.
 
 _generated Friday, August 7, 2020 7:28:01 PM UTC_

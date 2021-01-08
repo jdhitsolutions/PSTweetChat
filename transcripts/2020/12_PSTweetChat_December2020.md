@@ -392,6 +392,6 @@
 *2020-12-04 18:59:22Z*
 > [Stay safe everyone. #pstweetchat](https://twitter.com/JeffHicks/status/1334935344467341312)
 
-This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
+This transcript is based on tracking the `#PSTweetchat` tag. However, not everyone remembers to insert  the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in true chronological order.
 
 _generated Friday, December 4, 2020 8:12:13 PM UTC_

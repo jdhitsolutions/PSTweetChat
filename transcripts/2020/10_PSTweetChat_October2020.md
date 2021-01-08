@@ -288,6 +288,6 @@
 *2020-10-02 18:00:32Z*
 > [@JeffHicks @Schlauge @fatherjack For sure! Outvariable is great too, good point #pstweetchat](https://twitter.com/jpomfret/status/1312090104199032833)
 
-This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
+This transcript is based on tracking the `#PSTweetchat` tag. However, not everyone remembers to insert  the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in true chronological order.
 
 _generated Friday, October 2, 2020 7:54:19 PM UTC_

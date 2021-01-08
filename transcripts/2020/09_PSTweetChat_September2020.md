@@ -280,6 +280,6 @@
 *2020-09-04 18:02:52Z*
 > [Thanks for hanging out. Stay safe. #pstweetchat](https://twitter.com/JeffHicks/status/1301943828367245321)
 
-This transcript is based on tracking the #PSTweetchat tag. Not everyone remembers to insert the the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in complete chronological order.
+This transcript is based on tracking the `#PSTweetchat` tag. However, not everyone remembers to insert  the tag so this is most likely an incomplete record. The entries are listed in order of Twitter's ID number which may not necessarily mean it is in true chronological order.
 
 _generated Friday, September 4, 2020 7:07:47 PM UTC_
