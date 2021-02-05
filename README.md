@@ -1,4 +1,5 @@
 # PSTweetChat
+
 <img src=assets/talkbubble.png align='left' alt='chat bubble'> This repository contains a transcript that I'm creating for the monthly `#PSTweetChat` on Twitter. The first Friday of every month for about an hour beginning at 1:00PM Eastern time (18:00 UTC), members of the PowerShell community get together on Twitter. We share experiences, tips, tricks and words of encouragement. I realized it would be helpful to maintain some sort of record which is why this exists. You can find monthly transcripts in the [Transcripts](./transcripts) folder. Note that this "transcript" is only as good as the data which means follow-up tweets that neglected to use the #PSTweetChat tag are missing. But hopefully this is better than nothing. The document will also capture most links and media that might have been shared.
 
 ## How Are You Doing This
