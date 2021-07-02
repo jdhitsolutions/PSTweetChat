@@ -1,5 +1,9 @@
 # Changelog for PSTweetChat Scripts
 
+## 2 July 2021
+
++ Updated `README.md`.
+
 ## 8 January 2021
 
 + Updated `New-PSTweetChatTranscript` to update the text in the closing disclaimer.
